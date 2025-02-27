@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SergeyGermanov
-- 👨🏻‍💻 I’m a JavaScript & React.JS dev
-- 🚀 I’m currently Learning SwiftUI for iOS
+- 👨🏻‍💻 I’m a iOS developer
+- 🚀 I’m coding in Swift, JavaScript & React.JS
 - 🧙🏼‍♂️ I'm an Agile enthusiast certified in PSM I, PSPO I, ICP-ATF, ICP-ACC
+- 📱 My recent iOS apps are here: https://swiftinggears.com/my_apps.html
 - 📫 Have a question - reach me here on X - @SergeyGermanov 
